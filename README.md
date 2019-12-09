@@ -1,5 +1,5 @@
 # Blackjack with q-learning
-Barebones blackjack playing agent with reinforcement learning. Created for **COSC 6342: Machine Learning**. Code adapted from one of Jeremy Zhang's [RL implementations](https://github.com/MJeremy2017/Reinforcement-Learning-Implementation).
+Barebones blackjack playing agent with reinforcement learning. Created for **COSC 6342: Machine Learning**. Code adapted from one of Jeremy Zhang's [RL implementations](https://github.com/MJeremy2017/Reinforcement-Learning-Implementation) and will be posted post-submission.
 
 ## Some results
 
